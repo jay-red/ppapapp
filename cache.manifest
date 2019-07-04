@@ -1,0 +1,18 @@
+CACHE MANIFEST
+
+CACHE:
+index.html
+css/style.css
+font/score.woff
+script/game.js
+sprites/adblock.png
+sprites/app-icon.png
+sprites/apple.png
+sprites/pen.png
+sprites/pineapple.png
+audio/ppap.m4a
+audio/ppap.mp3
+audio/ppap.ogg
+
+NETWORK:
+*
